@@ -1,0 +1,25 @@
+body {
+  background: #DB4C3F;
+  color: #FFFFFF;
+  background-image: url(pictos.svg);
+  font-family: sans-serif;
+}
+
+.header {
+  font-size: 18px;
+  margin: 40px auto;
+  font-weight: 200;
+  display: table;
+  color: #FFF;
+  border-bottom: 2px solid #fff;
+}
+
+.demo-todo-wrapper {
+  margin: 0 auto;
+  display: table;
+}
+
+.demo-todo-container {
+  position: relative;
+  width: 800px;
+}

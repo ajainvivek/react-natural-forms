@@ -1,0 +1,53 @@
+.react-motion-todo-wrapper {
+  width: 100%;
+}
+.react-motion-create-todo {
+  width: 100%;
+  overflow: visible;
+  color: #ddd;
+  border-radius: 4px;
+  padding: 10px;
+  font-size: 18px;
+  font-weight: 400;
+  margin: 10px 0;
+  background-color: rgb(255, 255, 255);
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  font-weight: 200;
+}
+.react-motion-todo-item {
+  position: absolute;
+  width: 100%;
+  overflow: visible;
+  pointer-events: auto;
+  transform-origin: 50% 50% 0px;
+  border-radius: 4px;
+  color: #747474;
+  padding: 10px;
+  font-size: 18px;
+  font-weight: 400;
+  background-color: rgb(255, 255, 255);
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+.react-motion-todo-wrapper .plus-wrapper span {
+  height: 18px;
+  width: 18px;
+  margin: 0;
+  margin-right: 10px;
+}
+
+.react-motion-todo-wrapper .task-input {
+  border: none;
+  background: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  -webkit-border-radius: 0;
+  border-radius: 0;
+  outline: none;
+  padding: 0;
+  line-height: 20px;
+  font-size: 16px;
+  padding-right: 20px;
+  user-select: text;
+}
