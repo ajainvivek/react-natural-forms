@@ -82,7 +82,7 @@ export default class extends Component {
 
     if (isPressed) {
       const mouseY = pageY - topDeltaY;
-      const currentRow = clamp(Math.round(mouseY / 100), 0, this.state.todos.length - 1);
+      const currentRow = clamp(Math.round(mouseY / 50), 0, this.state.todos.length - 1);
       let newOrder = order;
 
       if (currentRow !== order.indexOf(originalPosOfLastPressed)) {
