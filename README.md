@@ -2,6 +2,9 @@
 
 Natural Language Form for react. Inspired from `Codrops`.
 
+![Stickies](https://media.giphy.com/media/4eeLJImKCBBLi/giphy.gif)
+> Screencast of stickies
+
 
 ## Installation
 
@@ -11,10 +14,6 @@ Install the React-Natural-Forms [package](https://www.npmjs.org/package/react-na
 npm install react-natural-forms --save
 ```
 
-
-## Features
-
-*
 
 ## Usage
 
@@ -35,3 +34,5 @@ If you have a feature request, please add it as an issue or make a pull request.
 - [ ] Validation
 - [ ] Output response
 - [ ] Error handling
+
+## Work In Progress
