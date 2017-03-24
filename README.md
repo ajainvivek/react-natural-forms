@@ -1,14 +1,14 @@
-# React-Motion-Todo
+# React-Natural-Forms
 
-Todo list for react application
+Natural Language Form for react. Inspired from `Codrops`.
 
 
 ## Installation
 
-Install the React-Motion-Todo [package](https://www.npmjs.org/package/react-motion-todo) package using [npm](https://www.npmjs.com/):
+Install the React-Natural-Forms [package](https://www.npmjs.org/package/react-natural-forms) package using [npm](https://www.npmjs.com/):
 
 ```bash
-npm install react-motion-todo --save
+npm install react-natural-forms --save
 ```
 
 
@@ -28,8 +28,10 @@ If you have a feature request, please add it as an issue or make a pull request.
 
 ## TODO List
 
-- [ ] Add, Delete & Update Todo
-- [ ] Order todo list based on priority
-- [ ] Show & Complete and In-Progress Todo
-- [ ] Configurable drag item & index
-- [ ] 
+- [x] Transition while switching questions
+- [ ] Select Field
+- [ ] Textfield
+- [ ] Formatting
+- [ ] Validation
+- [ ] Output response
+- [ ] Error handling
