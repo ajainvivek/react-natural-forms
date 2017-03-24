@@ -1,7 +1,7 @@
-import { default as Todo } from './components/Todo';
+import { default as NaturalForm } from './components/NaturalForm';
 
 export {
-  Todo
+  NaturalForm
 };
 
-export default Todo;
+export default NaturalForm;
